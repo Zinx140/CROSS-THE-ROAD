@@ -1,1 +1,11 @@
+Untuk membuka game klik 2 kali pada file bernama main.exe
 
+RULES pada game
+1. Disana anda akan menjadi player yang digambarkan dengan huruf P dan mobil yang digambarkan dengan operator =
+2. Gerakkan player anda dengan menginput w/a/s/d pada bagian Bawah di sebelah input
+3. jangan lupa enter input untuk bergerak
+4. sampai ke garis finish untuk menang dan jangan sampai tertabrak atau menabrak mobil
+
+ENJOY THE GAME
+
+// game ini masih banyak kekurangannya mohon maaf bila terkadang terdapat bug nya.
